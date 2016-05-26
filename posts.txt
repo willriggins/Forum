@@ -1,0 +1,7 @@
+-1|alice|hello!
+0|bob|hi alice
+1|charlie|hey bob
+-1|bob|new topic
+3|alice|cool topic
+2|bob|hey charlie
+0|charlie|hey alice
